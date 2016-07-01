@@ -1,20 +1,12 @@
-# Uncomment this line to define a global platform for your project
-# platform :ios, '9.0'
+use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.1'
+
+pod 'GoogleMaps'
+pod 'AFNetworking', '~> 2.5'
+pod 'BDBOAuth1Manager'
+pod 'Polyline', '~> 3.0'
 
 target '1-way-destination' do
-  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
-  use_frameworks!
-
-  # Pods for 1-way-destination
-
-  target '1-way-destinationTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target '1-way-destinationUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
+    pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
 end
