@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F70097EA1D27273C00D1DF9F"
-               BuildableName = "1-way-destination.app"
-               BlueprintName = "1-way-destination"
-               ReferencedContainer = "container:1-way-destination.xcodeproj">
+               BlueprintIdentifier = "F742898D1D50012B00948E98"
+               BuildableName = "1-way-dest.app"
+               BlueprintName = "1-way-dest"
+               ReferencedContainer = "container:1-way-dest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F70097FE1D27273C00D1DF9F"
-               BuildableName = "1-way-destinationTests.xctest"
-               BlueprintName = "1-way-destinationTests"
-               ReferencedContainer = "container:1-way-destination.xcodeproj">
+               BlueprintIdentifier = "F74289A11D50012B00948E98"
+               BuildableName = "1-way-destTests.xctest"
+               BlueprintName = "1-way-destTests"
+               ReferencedContainer = "container:1-way-dest.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F70098091D27273C00D1DF9F"
-               BuildableName = "1-way-destinationUITests.xctest"
-               BlueprintName = "1-way-destinationUITests"
-               ReferencedContainer = "container:1-way-destination.xcodeproj">
+               BlueprintIdentifier = "F74289AC1D50012B00948E98"
+               BuildableName = "1-way-destUITests.xctest"
+               BlueprintName = "1-way-destUITests"
+               ReferencedContainer = "container:1-way-dest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F70097EA1D27273C00D1DF9F"
-            BuildableName = "1-way-destination.app"
-            BlueprintName = "1-way-destination"
-            ReferencedContainer = "container:1-way-destination.xcodeproj">
+            BlueprintIdentifier = "F742898D1D50012B00948E98"
+            BuildableName = "1-way-dest.app"
+            BlueprintName = "1-way-dest"
+            ReferencedContainer = "container:1-way-dest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F70097EA1D27273C00D1DF9F"
-            BuildableName = "1-way-destination.app"
-            BlueprintName = "1-way-destination"
-            ReferencedContainer = "container:1-way-destination.xcodeproj">
+            BlueprintIdentifier = "F742898D1D50012B00948E98"
+            BuildableName = "1-way-dest.app"
+            BlueprintName = "1-way-dest"
+            ReferencedContainer = "container:1-way-dest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F70097EA1D27273C00D1DF9F"
-            BuildableName = "1-way-destination.app"
-            BlueprintName = "1-way-destination"
-            ReferencedContainer = "container:1-way-destination.xcodeproj">
+            BlueprintIdentifier = "F742898D1D50012B00948E98"
+            BuildableName = "1-way-dest.app"
+            BlueprintName = "1-way-dest"
+            ReferencedContainer = "container:1-way-dest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

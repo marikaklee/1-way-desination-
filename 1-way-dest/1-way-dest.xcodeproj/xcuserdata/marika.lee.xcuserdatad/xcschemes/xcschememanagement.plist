@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>1-way-destination.xcscheme</key>
+		<key>1-way-dest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F70097EA1D27273C00D1DF9F</key>
+		<key>F742898D1D50012B00948E98</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F70097FE1D27273C00D1DF9F</key>
+		<key>F74289A11D50012B00948E98</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F70098091D27273C00D1DF9F</key>
+		<key>F74289AC1D50012B00948E98</key>
 		<dict>
 			<key>primary</key>
 			<true/>

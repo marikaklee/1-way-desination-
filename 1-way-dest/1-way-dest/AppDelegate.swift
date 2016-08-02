@@ -1,12 +1,13 @@
 //
 //  AppDelegate.swift
-//  1-way-destination
+//  1-way-dest
 //
-//  Created by Lee, Marika on 7/1/16.
+//  Created by Lee, Marika on 8/1/16.
 //  Copyright © 2016 Lee, Marika. All rights reserved.
 //
 
 import UIKit
+import GoogleMaps
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -16,6 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        GMSServices.provideAPIKey("AIzaSyADGc6u-e_vnnWoPYC_MAbG_0EJEfqw7t4")
         return true
     }
 

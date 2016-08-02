@@ -1,14 +1,14 @@
 //
-//  __way_destinationUITests.swift
-//  1-way-destinationUITests
+//  __way_destUITests.swift
+//  1-way-destUITests
 //
-//  Created by Lee, Marika on 7/1/16.
+//  Created by Lee, Marika on 8/1/16.
 //  Copyright © 2016 Lee, Marika. All rights reserved.
 //
 
 import XCTest
 
-class __way_destinationUITests: XCTestCase {
+class __way_destUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
